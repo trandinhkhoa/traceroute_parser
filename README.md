@@ -12,4 +12,4 @@ Example:
 $ ./myTraceParser.py linkedin.com
 ```
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/example.png)
+![Example](https://github.com/trandinhkhoa/traceroute_parser/blob/master/example.png)
