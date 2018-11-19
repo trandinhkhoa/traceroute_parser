@@ -9,7 +9,7 @@ $ ./myTraceParser.py [destination]
 
 Example:
 ```
-$ ./myTraceParser.py linkedin.com
+$ ./myTraceParser.py google.com
 ```
 
 ![Example](https://github.com/trandinhkhoa/traceroute_parser/blob/master/example.png)
